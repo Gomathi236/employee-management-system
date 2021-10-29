@@ -1,0 +1,9 @@
+body{
+    margin-top: 50px;
+    background-color: #eeffff;
+   
+}
+
+#name,#number,#email,#address,#city,#role{
+    padding: 10px;
+}
